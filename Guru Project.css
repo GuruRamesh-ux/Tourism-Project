@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #00897b;
+    color: white;
+    padding: 20px;
+}
+
+.content {
+    padding: 30px;
+}
+
+input,
+button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1em;
+}
+
+#signInText {
+    margin-top: 15px;
+    font-weight: bold;
+    color: green;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #004d40;
+    color: white;
+    padding: 15px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
